@@ -29,6 +29,10 @@ export const styles = `
     border-collapse: collapse;
   }
 
+  h1 {
+    text-align: center;
+  }
+
   #app {
     width: 80vw;
     margin: auto;

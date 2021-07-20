@@ -1,4 +1,3 @@
-// import * as playlist from './playlist.json' 
 import { styles, addStyle } from './style'
 import { playlist } from './playlist'
 
